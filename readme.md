@@ -5,6 +5,7 @@ Base SCSS
 
 ```
 git clone https://github.com/jblavisse/base-scss.git
+cd base-scss/
 npm install
 ```
 
