@@ -11,5 +11,5 @@ npm install
 ## Live Reload SCSS
 
 ```
-npx node-sass scss/main.scss css/style.css
+npx node-sass --watch scss/main.scss css/style.css
 ```
